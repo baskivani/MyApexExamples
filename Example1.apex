@@ -1,4 +1,4 @@
-// Displaying contacts and accounts (A query from child to parent )
+// This code gives us the list of Contacts and its account names 
 public class MyApexExamples {
   
     public list<contact> ContactsAndAccounts(){
@@ -12,6 +12,7 @@ public class MyApexExamples {
     	}
 
 // In order to test we can write the codes below in Anonymus Windows.
+
 /*  MyApexExamples ornek = new MyApexExamples();
     ornek.ContactsAndAccounts();
 */
