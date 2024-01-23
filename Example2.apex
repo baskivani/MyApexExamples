@@ -14,5 +14,13 @@ public class SOQLExamples {
             return null; 
         }
     }
-    
+
+  // In order to test we can write the codes below in Anonymus Windows.
+/*
+MyApexExamples example = new MyApexExamples();
+
+string accName =example.ContactAndAccount('0038d00000qdiLiAAI');
+
+system.debug('Given Id'\'s account name is '+accName);
+*/
 }
