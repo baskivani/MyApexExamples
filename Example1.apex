@@ -1,4 +1,4 @@
-// This code gives us the list of Contacts and its account names 
+// This code gives us the list of Contacts and it's account names 
 public class MyApexExamples {
   
     public list<contact> ContactsAndAccounts(){
